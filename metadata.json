@@ -1,0 +1,6 @@
+{
+  "name": "StudyQuiz - Practice Quiz Assistant",
+  "description": "Generate 3-question multiple-choice practice quizzes from university lecture notes with instant scoring and detailed feedback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
